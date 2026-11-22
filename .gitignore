@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+build/
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+!terraform.tfvars.example
+.terraform.lock.hcl.bak
+crash.log
+.idea/
+.vscode/
+.DS_Store
